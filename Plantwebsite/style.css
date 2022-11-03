@@ -183,7 +183,7 @@ section{
 
 .home .home-slider .box .content{
   position: absolute;
-  top:50%; left: 5%;
+  top:50%; left: 1%;
   transform: translateY(-50%);
   max-width: 5rem;
 }
