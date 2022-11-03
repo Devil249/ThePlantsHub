@@ -185,7 +185,7 @@ section{
   position: absolute;
   top:50%; left: 5%;
   transform: translateY(-50%);
-  max-width: 50rem;
+  max-width: 5rem;
 }
 
 .home .home-slider .box .content span{
